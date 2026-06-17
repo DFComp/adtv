@@ -388,7 +388,60 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVParanaTurismo.br@SD" tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="Viagens/Turismo",TV Paraná Turismo (720p) [Not 24/7]
 http://200.189.113.201/hls/tve.m3u8
 ##NOVOS LINKS (Testar)##
-#EXTM3U
+#EXTINF:-1 tvg-id="sportv" tvg-name="Sportv",Sportv group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/667bf02a4e164d9eaf027f83fff4563c/sportv.txt
+#EXTINF:-1 tvg-id="sportv2" tvg-name="Sportv 2",Sportv 2 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/64b7b8ddc5259cacf256f181530b1e51/sportv2.txt
+#EXTINF:-1 tvg-id="sportv3" tvg-name="Sportv 3",Sportv 3 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/06e684d7f8b0ec15e8ba7a767bb7949c/sportv3.txt
+#EXTINF:-1 tvg-id="espn" tvg-name="Espn",Espn group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/40627333e647e81ea636d8ef01c8ae64/espn.txt
+#EXTINF:-1 tvg-id="espn2" tvg-name="Espn 2",Espn 2 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/0ca75e2451b14b4afd5e43873b8282a5/espn2.txt
+#EXTINF:-1 tvg-id="espn3" tvg-name="Espn 3",Espn 3 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/4196ee4b0db5720bbc159c1281e11644/espn3.txt
+#EXTINF:-1 tvg-id="espn4" tvg-name="Espn 4",Espn 4 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/4635c2bfd7e7a8e4cb76a5f169ca3fc7/espn4.txt
+#EXTINF:-1 tvg-id="espn5" tvg-name="Espn 5",Espn 5 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/3c60929eaef5402d50d9c77635d36c42/espn5.txt
+#EXTINF:-1 tvg-id="espn6" tvg-name="Espn 6",Espn 6 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/7da5058056639670dc0b207196342783/espn6.txt
+#EXTINF:-1 tvg-id="caze1" tvg-name="Cazé TV 1",Cazé TV 1 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/8d2ece4a111283b5985f211fe139b3d7/caze1.txt
+#EXTINF:-1 tvg-id="caze2" tvg-name="Cazé TV 2",Cazé TV 2 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/5503d11fefcac9ddfc6e52369a387d9c/caze2.txt
+#EXTINF:-1 tvg-id="caze3" tvg-name="Cazé TV 3",Cazé TV 3 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/648342aa32c1e24ddfdcc98af4a908ed/caze3.txt
+#EXTINF:-1 tvg-id="premiere2" tvg-name="Premiere 2",Premiere 2 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/778a626630f85407d38c8f78f75d2eb1/premiere2.txt
+#EXTINF:-1 tvg-id="premiere3" tvg-name="Premiere 3",Premiere 3 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/374f9f009c04b0cce80ba55d64451d34/premiere3.txt
+#EXTINF:-1 tvg-id="premiere4" tvg-name="Premiere 4",Premiere 4 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/bd6f4bfe8bff3b58c13d998f01a7b81c/premiere4.txt
+#EXTINF:-1 tvg-id="premiere5" tvg-name="Premiere 5",Premiere 5 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/9f871f9eca799320246f81f88eb59a89/premiere5.txt
+#EXTINF:-1 tvg-id="premiere6" tvg-name="Premiere 6",Premiere 6 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/2509211674a4b592fbf0cd0b9c1a0cd3/premiere6.txt
+#EXTINF:-1 tvg-id="premiere7" tvg-name="Premiere 7",Premiere 7 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/2e6c5643aee5977ff71fc4d57200f5ae/premiere7.txt
+#EXTINF:-1 tvg-id="nossofutebol" tvg-name="Nosso Futebol",Nosso Futebol group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/a54966d4be26e307a291b866222e653a/nossofutebol.txt
+#EXTINF:-1 tvg-id="goat1" tvg-name="Goat",Goat group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/b97417e772fb6c55734c3e2761920e47/goat1.txt
+#EXTINF:-1 tvg-id="goat2" tvg-name="Goat 2",Goat 2 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/bd0610e6c8972575a122deb2063557ed/goat2.txt
+#EXTINF:-1 tvg-id="goat3" tvg-name="Goat 3",Goat 3 group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/d88fe8e032c09dc1130921e8a142baa1/goat3.txt
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT",TNT group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/68e6852041b1c5cbb199c47ad2388689/tnt.txt
+#EXTINF:-1 tvg-id="space" tvg-name="Space",Space group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/de2033ce3bfa44c529b617c42f814963/space.txt
+#EXTINF:-1 tvg-id="bandsports" tvg-name="Band Sports",Band Sports group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/a3ef7711dfe997b8b796d5475d5014c5/bandsports.txt
+#EXTINF:-1 tvg-id="combate" tvg-name="Combate",Combate group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/b9bc1e77654d8bb7f45fa3980c626169/combate.txt
+#EXTINF:-1 tvg-id="ufcfightpass" tvg-name="UFC Fight Pass",UFC Fight Pass group-title="TESTAR"
+https://d1muf25xa03so8hp29.s27-usa-cloudfront-net.online/token/4b03f8c347ab6bd0350d333608479b8a/ufcfightpass.txt
 #EXTINF:-1 tvg-id="" tvg-name="E͎S͎P͎N͎ CO HD (DTV)" tvg-logo="https://i.postimg.cc/rmYQ1C6z/ESP-HD.png" group-title="⚽ ZONA | ESPN ♦",E͎S͎P͎N͎ CO HD (DTV)
 http://vodlat.top:8080/FL2620ALEJANDROM/nvePBpa2pUg3/401651
 #EXTINF:-1 tvg-id="" tvg-name="E͎S͎P͎N͎ 1 PE HD" tvg-logo="https://i.postimg.cc/rmYQ1C6z/ESP-HD.png" group-title="⚽ ZONA | ESPN ♦",E͎S͎P͎N͎ 1 PE HD
